@@ -1,22 +1,14 @@
 <div align="center">
-	<a href="https://frappe.io/hr">
-		<img src="./images/apple-touch-icon.png" height="80px" width="80px" alt="Frappe HR Logo">
-	</a>
-	<h2>HexaVault</h2>
-	<p align="center">
-		<p>An advanced password generator with customizable strength, character sets, and security features.</p>
-	</p>
-
-[![CI](https://github.com/frappe/hrms/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/frappe/hrms/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/frappe/hrms/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/hrms)
-
-
-
-
 
 # 🔐 HexaVault
 
 A powerful and customizable password generator web tool with advanced features beyond typical generators, designed for security-conscious users.
+</div>
+
+
+
+
+
 
 ---
 
@@ -98,7 +90,7 @@ This project is open source and available under the MIT License. See the [LICENS
 
 ## Contact
 
-Created by Syed Labeeq — feel free to open issues or submit pull requests!
+Created by [Syed Labeeq](https://github.com/syedlabeeq) — feel free to open issues or submit pull requests!
 
 ---
 
